@@ -3,7 +3,7 @@
 
 ## About Me （关于我）
 
-'''
+```
 I am
 
 🇨🇳 Come from China(中国人) (He)
@@ -17,14 +17,14 @@ I am
 Visit ME at
 
 <https://www.mp-gamer.com/bf2why/teammember>
-'''
+```
 
-'''
+```
 一个中国人
 我的世界<a href="https://www.mp-gamer.com/bf2why/minecraft" target="_blank">ALPHAHU</a>服务器总管理
 战地2 <a href="https://www.mp-gamer.com/bf2why" target="_blank">W.H.Y.战队</a>服务器管理
 我的世界Logger插件项目助手
-'''
+```
 
 ## Github Stats
 

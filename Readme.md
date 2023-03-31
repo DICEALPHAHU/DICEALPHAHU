@@ -25,6 +25,7 @@ Visit ME at
 战地2 W.H.Y.战队 服务器管理
 我的世界Logger插件项目助手
 ```
+<meta name="referrer" content="origin">
 <a href="https://www.mp-gamer.com/bf2why/minecraft" >Minecraft ALPHAHU Server （服务器）</a><br> 
 <a href="https://www.mp-gamer.com/bf2why">战地2 W.H.Y.战队</a>
 

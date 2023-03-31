@@ -26,7 +26,7 @@ Visit ME at
 我的世界Logger插件项目助手
 ```
 <a href="https://www.mp-gamer.com/bf2why/minecraft" target="_blank" referrerpolicy="origin">Minecraft ALPHAHU Server （服务器）</a><br> 
-<a href="https://www.mp-gamer.com/bf2why" target="_blank" referrerpolicy="origin"">战地2 W.H.Y.战队</a>
+<a href="https://www.mp-gamer.com/bf2why" target="_blank" referrerpolicy="origin">战地2 W.H.Y.战队</a>
 
 ## Github Stats
 

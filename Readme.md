@@ -25,10 +25,13 @@ Visit ME at
 战地2 W.H.Y.战队 服务器管理
 我的世界Logger插件项目助手
 ```
+Minecraft ALPHAHU Server （服务器）
 https://www.mp-gamer.com/bf2why/minecraft
-Minecraft ALPHAHU Server （服务器）<br> <br> 
-https://www.mp-gamer.com/bf2why/
+<br> <br> 
 战地2 W.H.Y.战队
+https://www.mp-gamer.com/bf2why/
+(Suggest copying the URL and opening it in the browser. Opening it directly will trigger the anti-leech link mechanism. 
+建议复制网址后在浏览器打开，直接打开会触发防盗链机制)
 
 ## Github Stats
 
